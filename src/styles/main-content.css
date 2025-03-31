@@ -143,10 +143,10 @@
     margin-bottom: 16px;
   
     /* CODIGO COM JS CALCULANDO OS CARDS POR COLUNA */
-    display: grid;
+    /* display: grid;
     gap: 16px;
     grid-gap: 32px;
-    margin: 0 auto;
+    margin: 0 auto; */
   }
   
   .cards {
