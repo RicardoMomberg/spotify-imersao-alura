@@ -1,3 +1,5 @@
+// Para fazer a pesquisa por artistas rodar em /api-artists "json-server --watch artists.json port 3000"
+
 const searchInput = document.getElementById('search-input');
 const resultArtist = document.getElementById("result-artist");
 const resultPlaylist = document.getElementById('result-playlists');
